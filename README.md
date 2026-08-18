@@ -2,20 +2,17 @@
 
 Sou estudante do 5° semestre de Sistemas de Informação na Unesp de Bauru em busca de uma oportunidade para aplicar os conhecimentos teóricos e técnicos que adquiri até o momento, em um ambiente dinâmico onde possa ajudar a desenvolver soluçòes ao mesmo tempo em que desenvolvo minhas habilidades. Tenho experiência prática em desenvolvimento web e acessibilidade web.
 
-***
 ## 💻 Habilidades
 - Linguagens de Programação: C, C++, Java, Python
 - Frameworks e Tecnologias: HTML, CSS, Firebase, Wordpress
 - Ferramentas e Plataformas: Git, GitHub, VS Code
 - Metodologias e Soft Skills: Acessibilidade web, trabalho em equipe, comunicação, organização, proatividade, disciplina, facilidade de aprendizado
-
-*** 
+ 
 ## 🌐 Idiomas
 - Português: Nativa
 - Inglês: Intermediário
 - Espanhol: Básico
 
-***
 ## 🤝 Vamos nos conectar!
 - Email: viviane.mei@unesp.br
 - Linkedin: https://www.linkedin.com/in/viviane-mei-takuno-nakasato/
