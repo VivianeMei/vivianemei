@@ -6,7 +6,7 @@ Sou estudante do 5° semestre de Sistemas de Informação na Unesp de Bauru em b
 - Linguagens de Programação: C, C++, Java, Python
 - Frameworks e Tecnologias: HTML, CSS, Firebase, Wordpress
 - Ferramentas e Plataformas: Git, GitHub, VS Code
-- Metodologias e Soft Skills: Acessibilidade web, trabalho em equipe, comunicação, organização, proatividade, disciplina, facilidade de aprendizado
+- Metodologias e Soft Skills: Scrum, acessibilidade web, trabalho em equipe, comunicação, organização, proatividade, disciplina, facilidade de aprendizado
  
 ## 🌐 Idiomas
 - Português: Nativa
